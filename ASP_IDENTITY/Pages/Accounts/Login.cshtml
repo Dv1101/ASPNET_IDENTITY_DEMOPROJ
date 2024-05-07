@@ -1,0 +1,49 @@
+﻿@page
+@model ASP_IDENTITY.Pages.Accounts.LoginModel
+@{
+}
+
+<div class="container border" style="padding:20px;">
+    <form method="post">
+        <div class="alert-danger" asp-validation-summary="All"></div>
+        <div class="mb-2 row">
+            <div class="col-2">
+                <label asp-for="credential.UserName"></label>
+            </div>
+            <div class="col-5">
+                <input type="text" asp-for="credential.UserName" class="form-control" />
+                <span class="text-danger" asp-validation-for="credential.UserName"></span>
+            </div>
+        </div>
+        <div class="mb-2 row">
+            <div class="col-2">
+                <label asp-for="credential.Password"></label>
+            </div>
+            <div class="col-5">
+                <input type="password" asp-for="credential.Password" class="form-control" />
+                <span class="text-danger" asp-validation-for="credential.Password"></span>
+            </div>
+        </div>
+
+
+        <div class="mb-2 row form-check">
+            <div class="col-2">
+                <input type="checkbox" class="form-check-input" asp-for="credential.RememberMe" />
+                <label class="form-check-label" asp-for="credential.RememberMe"></label>
+            </div>
+            <div class="col-5">
+               
+            </div>
+        </div>
+
+        <div class="mb-2 row">
+            <div class="col-2">
+                <input type="submit" class="btn btn-primary" value="Login" />
+            </div>
+            <div class="col-5">
+
+            </div>
+        </div>
+     
+    </form>
+</div>
