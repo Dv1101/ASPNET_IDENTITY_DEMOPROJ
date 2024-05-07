@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\accounts\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\accounts\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\accounts\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\accounts\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\accounts\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\accounts\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\settings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\settings.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\settings.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\humanresource.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\humanresource.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\accounts\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\accounts\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|c:\\files\\code\\dotnet\\asp_identity\\asp_identity\\asp_identity\\pages\\humanresource.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3952024-FC67-41E6-A6D0-835F910101B0}|ASP_IDENTITY\\ASP_IDENTITY.csproj|solutionrelative:asp_identity\\pages\\humanresource.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T10:01:42.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginStatusPartial.cshtml",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:53:53.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Accounts\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\Accounts\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Accounts\\Logout.cshtml.cs",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\Accounts\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:50:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Accounts\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\Accounts\\Logout.cshtml",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Accounts\\Logout.cshtml",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\Accounts\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:50:06.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Settings.cshtml",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Settings.cshtml",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\Settings.cshtml",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Settings.cshtml",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\Settings.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:43:48.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Accounts\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\Accounts\\Login.cshtml.cs",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Accounts\\Login.cshtml.cs",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\Accounts\\Login.cshtml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:38:51.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\Accounts\\Login.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T07:38:47.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Program.cs",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Program.cs",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Program.cs",
+              "RelativeToolTip": "ASP_IDENTITY\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T08:12:19.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.cshtml.cs",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Settings.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\Settings.cshtml.cs",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Settings.cshtml.cs",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\Settings.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:43:51.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HumanResource.cshtml.cs",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\HumanResource.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\HumanResource.cshtml.cs",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\HumanResource.cshtml.cs",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\HumanResource.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:36:15.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:28:16.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Accounts\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\Accounts\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\Accounts\\AccessDenied.cshtml",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\Accounts\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:37:48.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HumanResource.cshtml",
+              "DocumentMoniker": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\HumanResource.cshtml",
+              "RelativeDocumentMoniker": "ASP_IDENTITY\\Pages\\HumanResource.cshtml",
+              "ToolTip": "C:\\Files\\code\\dotnet\\ASP_Identity\\ASP_IDENTITY\\ASP_IDENTITY\\Pages\\HumanResource.cshtml",
+              "RelativeToolTip": "ASP_IDENTITY\\Pages\\HumanResource.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:31:59.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
